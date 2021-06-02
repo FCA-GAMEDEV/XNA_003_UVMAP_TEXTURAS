@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AulaXNA3D003", "AulaXNA3D003\AulaXNA3D003\AulaXNA3D003.csproj", "{9EA195D9-DC22-47CF-9DFE-AB60B5569476}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "AulaXNA3D003Content", "AulaXNA3D003\AulaXNA3D003Content\AulaXNA3D003Content.contentproj", "{2F69EBFB-6D2C-4BCD-9108-B83C57213AB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EA195D9-DC22-47CF-9DFE-AB60B5569476}.Debug|x86.ActiveCfg = Debug|x86
+		{9EA195D9-DC22-47CF-9DFE-AB60B5569476}.Debug|x86.Build.0 = Debug|x86
+		{9EA195D9-DC22-47CF-9DFE-AB60B5569476}.Release|x86.ActiveCfg = Release|x86
+		{9EA195D9-DC22-47CF-9DFE-AB60B5569476}.Release|x86.Build.0 = Release|x86
+		{2F69EBFB-6D2C-4BCD-9108-B83C57213AB1}.Debug|x86.ActiveCfg = Debug|x86
+		{2F69EBFB-6D2C-4BCD-9108-B83C57213AB1}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
